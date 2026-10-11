@@ -6,6 +6,12 @@ line into crontab.guru — a website — every time you need to sanity-check
 a schedule before deploying it. This is the same check as a local
 binary, scriptable and CI-friendly.
 
+## Installation
+
+```sh
+cargo install --path .
+```
+
 ## Usage
 
 ```bash
